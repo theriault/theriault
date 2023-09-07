@@ -8,6 +8,8 @@ What about overly complicated [syntax diagrams](https://github.com/theriault/pcr
 
 Feel like you need a [command center](https://github.com/theriault/command-center)?
 
+Or maybe your big thing is [recursion](https://github.com/theriault/theriault)?
+
 
 <!--
 **theriault/theriault** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
